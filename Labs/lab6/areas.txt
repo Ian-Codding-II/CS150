@@ -1,0 +1,3 @@
+Area of the square = 576
+Area of the circle = 50.2654
+Area of the triangle = 368
